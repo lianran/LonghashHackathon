@@ -2,11 +2,11 @@
 ## Combined-HASH-SIG
 
 
-Assume 
+Assume  
 The cryptocurrency of Blockchain 1 is COIN1  
-The cryptocurrency of Blockchain 2 is COIN2
-Bob wants to exchange 'a' amount of COIN1 to 'b' amount of COIN2.  
-Alice wants to exchange 'b' amount of COIN2 to 'a' amount of COIN1.  
+The cryptocurrency of Blockchain 2 is COIN2  
+Bob wants to exchange 'a' amount of COIN1 for 'b' amount of COIN2.  
+Alice wants to exchange 'b' amount of COIN2 for 'a' amount of COIN1.  
 
 In order for 'Combined-HASH-SIG' to work, Blockchain 1 needs to support branching, hashlock and timelock (CLTV or something equaivalent) while Blockchain 2 only need to support multi-sig.
 
