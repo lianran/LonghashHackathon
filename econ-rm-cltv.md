@@ -16,7 +16,7 @@ Bitcoin + CPRKV <-> Any CryptoCurrency with MultiSig feature.
 
 ---
 
-0.Secret generation
+0.Secret generation  
 Alice generate a
 Bob generate b,c
 
@@ -46,7 +46,7 @@ OP_2 <a public key> <b public_key> OP_2 OP_CHECKMULTISIG
 3.Bob pays Z COIN1 to  
 ```
 OP_IF
-	signed by Bob && gave a of bG  and gave c of cG
+	signed by Bob && gave b of bG  and gave c of cG
 OP_ELSE
 	signed by Alice && gave a of aG
 OP_ENDIF
