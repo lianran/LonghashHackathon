@@ -2,9 +2,9 @@
 ## Combined-HASH-SIG
 
 
-Assume 
+Assume  
 The cryptocurrency of Blockchain 1 is COIN1  
-The cryptocurrency of Blockchain 2 is COIN2
+The cryptocurrency of Blockchain 2 is COIN2  
 Bob wants to exchange 'a' amount of COIN1 to 'b' amount of COIN2.  
 Alice wants to exchange 'b' amount of COIN2 to 'a' amount of COIN1.  
 
