@@ -24,9 +24,8 @@ OP_ENDIF
 D should be more valuable than the value of the Bitcoins or altcoins.
 This is a promise by Bob to release bob_secret within 2 days (or lose his deposit).
 
-2.Alice pays a altcoins to
+2.Alice pays a altcoins to Code:
 ```
-Code:
 OP_IF
   OP_HASH160 <hash(bob_secret)> OP_EQUALVERIFY <alice_pub_1001> OP_CHECKSIG
 OP_ELSE
